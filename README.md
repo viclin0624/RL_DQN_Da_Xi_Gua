@@ -5,6 +5,7 @@ DS&BA项目课程，决策与优化
 
 非常感谢Sharpiless，主要代码基于其修改：https://github.com/Sharpiless/play-daxigua-using-Reinforcement-Learning
 
+如您发现问题，欢迎联系我交流指正~
 ## 版本需求
 Python 3.7
 
